@@ -21,3 +21,33 @@ Horgesbord is the concept that one has many compute devices hanging around in la
 - **Orchestration** - System for Shared Resources
 
 # Infrastructure as Shared Resource
+
+What is possible with shared resources?
+
+- Common
+-- Compute (CPU)
+-- Memory (RAM)
+-- Storage (DISK/FLASH)
+
+- Communication (Side-channel)
+-- Cellular / Radios
+-- Wifi
+-- Bluetooth
+-- Ethernet
+
+- Peripherals
+-- Screen Displays 
+-- Cameras
+-- Speakers
+-- Microphones
+-- Touchscreens
+-- Many buttons…
+
+- Sensors
+-- Motion / Accelerometers
+-- GPS - location
+-- What’s on IoT devices…
+-- General Purpose I/O
+
+What are the design uses?
+
