@@ -11,5 +11,13 @@ Horgesbord is the concept that one has many compute devices hanging around in la
 
 # Design Principals
 
+**Privacy** - Respect previous inhabitant’s data - wipe the device!
+**Physical** - Access to device - *rip it open! Solder on it!*
+**Universal** - Communication layer for device coordination - *USB!*
+**Common OS** - Flash device with open operating system - *Linux!*
+**Security?** - Eschew for interoperability - *what?!*
+**Resilience** - Assume: always be crashing
+**Energy** - Power consumption vs. Computing power
+**Orchestration** - System for Shared Resources
 
 # Infrastructure as Shared Resource
