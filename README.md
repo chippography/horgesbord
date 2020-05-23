@@ -5,6 +5,11 @@ Horgesbord is the concept that one has many compute devices hanging around in la
 
 # Guiding Principals
 
+1. **Accumulation** of dis-used computing technology…
+2. **Squat** the technology with an aim to re-purpose it…
+3. **Submit** the technology to a communal use…
+
 # Design Principals
+
 
 # Infrastructure as Shared Resource
